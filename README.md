@@ -74,10 +74,11 @@ I'm a passionate tester, developer and artist, always exploring new technologies
 
 ## 🚀 My Interests
 
-- 💻 New technologies
+- 💻 New Technologies
 - 🎮 Computer Games
 - 🪴 Bonsai
 - 🛩️ Traveling
 - 🏀 Playing Basketball
+- ♟ Chess
 
-Thank you for visiting my GitHub profile! Feel free to look around! 🖖
+Thank you for visiting my GitHub profile! Feel free to look around! 🖖😎👍
