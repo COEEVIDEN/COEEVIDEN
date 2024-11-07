@@ -2,6 +2,7 @@
 
 I'm a passionate tester, developer and artist, always exploring new technologies. Let's connect and build something amazing together!
 
+- 💳 Cagatay Oezbay
 - 🔭 Currently focusing on my personal development
 - 🌱 Learning Java, Angular & MapStruct, Several Security Tools
 - 🤝 Looking to collaborate on AI, Software Testing, AR, VR, Security and projects benefiting humanity
