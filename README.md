@@ -1,85 +1,140 @@
-# Hi there 👋
+# Hi there 👋 I'm Cagatay
 
-I'm a passionate tester, developer and artist, always exploring new technologies. Let's connect and build something amazing together!
+I'm a Technical Testing Consultant with a strong background in software engineering, quality engineering and test automation.
 
-- 💳 Cagatay Oezbay
-- 🔭 Currently focusing on my personal development
-- 🌱 Learning Java, Angular & MapStruct, Several Security Tools
-- 🤝 Looking to collaborate on AI, Software Testing, AR, VR, Security and projects benefiting humanity
-- 💬 Ask me about Software Development & Testing, 3D, 2D, AI and Realtime Gfx
-- 📫 How to reach me: ;)
+Currently, I'm exploring how **AI and agentic approaches can improve modern software testing** — from intelligent test design and Playwright-based automation to MCP-enabled tooling and secure enterprise AI integration.
 
-## 🛠️ Languages and Tools
+I enjoy turning new technologies into practical **Proofs of Concept** and figuring out where they create real value.
 
-### 💻 Languages 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%3776AB.svg?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343.svg?style=flat-square&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
+🔭 Currently working on **Test Automation, Playwright & AI-enabled Quality Engineering**
+
+🌱 Exploring **Agentic AI, MCP, GitHub Copilot and AI-assisted Development & Testing**
+
+🧪 Interested in **Quality Engineering, E2E Automation, AI-driven Testing and Proofs of Concept**
+
+🔐 Keeping an eye on **Security, Privacy and responsible Enterprise AI adoption**
+
+🤝 Happy to collaborate on **AI, Software Testing, Automation, AR/VR and innovative technology projects**
+
+💬 Ask me about **Software Testing, Automation, AI, Software Development, 3D and Real-Time Graphics**
+
+---
+
+## 🛠️ Tech & Tooling
+
+### 🧪 Quality Engineering & Test Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-007ACC?style=flat-square)
+![Test Automation](https://img.shields.io/badge/Test_Automation-5C2D91?style=flat-square)
+![Quality Engineering](https://img.shields.io/badge/Quality_Engineering-0078D4?style=flat-square)
+
+### 🤖 AI & Agentic Engineering
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E40C9?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-5A29E4?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
+![AI Assisted Testing](https://img.shields.io/badge/AI_Assisted_Testing-FF6F00?style=flat-square)
+
+### 💻 Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+### ⚙️ Engineering & Development Tools
 
-### ☁️ Cloud Computing
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+
+### ☁️ Cloud & Platform
+
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 🤖 Artificial Intelligence (AI)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white)
+### 🔐 Security & Privacy
 
-### ⛓ Blockchain
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=flat-square&logo=bitcoin&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-00FFA3.svg?style=flat-square&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822.svg?style=flat-square&logo=web3.js&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134.svg?style=flat-square&logo=hyperledger&logoColor=white)
+![Application Security](https://img.shields.io/badge/Application_Security-CC0000?style=flat-square)
+![AI Security](https://img.shields.io/badge/AI_Security-8B0000?style=flat-square)
+![Data Privacy](https://img.shields.io/badge/Data_Privacy-005A9C?style=flat-square)
 
-### 🕹 Real-Time
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
-![CryEngine](https://img.shields.io/badge/CryEngine-000000.svg?style=flat-square&logo=cryengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=white)
+---
 
-### 🖌 3D Modeling and Animation
-![Autodesk 3ds Max](https://img.shields.io/badge/Autodesk_3ds_Max-0696D7.svg?style=flat-square&logo=autodesk&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-0696D7.svg?style=flat-square&logo=autodesk&logoColor=white)
-![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A.svg?style=flat-square&logo=maxon&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF5800.svg?style=flat-square&logo=adobe&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-549FDE.svg?style=flat-square&logo=pixologic&logoColor=white)
+## 🔬 What I'm Exploring
 
-### 🎨 2D
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00.svg?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-F76923.svg?style=flat-square&logo=adobe-indesign&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6.svg?style=flat-square&logo=adobe-xd&logoColor=white)
-![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24.svg?style=flat-square&logo=adobe-acrobat&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=flat-square&logo=gimp&logoColor=white)
+I'm particularly interested in the intersection of **Software Quality, Automation and Artificial Intelligence**.
 
-### 🎞 Video
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-9999FF.svg?style=flat-square&logo=davinci-resolve&logoColor=white)
+Some of the questions I'm currently exploring:
 
-## 🚀 My Interests
+- How can **AI agents support software testing** without turning the testing process into a black box?
+- How can **Playwright and AI-assisted development** accelerate reliable end-to-end test automation?
+- How can the **Model Context Protocol (MCP)** connect AI agents with development and testing tools?
+- Where can **Agentic AI** provide real engineering value instead of introducing unnecessary complexity?
+- How can AI-enabled engineering approaches meet **Security, Privacy and Enterprise Governance** requirements?
+- How do we move from interesting technology demos to **practical and measurable Proofs of Concept**?
 
-- 💻 New Technologies
-- 🎮 Computer Games
-- 🪴 Bonsai
-- 🛩️ Traveling
-- 🏀 Playing Basketball
-- ♟ Chess
+---
 
-Thank you for visiting my GitHub profile! Feel free to look around! 🖖😎👍
+## 🧠 Engineering Philosophy
+
+Technology is most interesting when it solves a real problem.
+
+I enjoy experimenting with new tools, but the goal is not to use AI, automation or new technology simply because it exists.
+
+The interesting part is finding the point where:
+
+**Technology + Quality + Security + Automation = Real Value**
+
+That usually means building something, testing it, challenging the assumptions and learning from the result.
+
+---
+
+## 🚀 Areas of Interest
+
+🤖 Artificial Intelligence & Agentic Systems  
+🧪 Software Testing & Quality Engineering  
+⚙️ Test Automation  
+🔐 Cybersecurity & Privacy  
+💻 Software Engineering  
+🥽 Augmented & Virtual Reality  
+🎮 Real-Time Technologies  
+🧊 3D Graphics & Visualization  
+🌍 Technology with positive real-world impact  
+
+---
+
+## 👨‍💻 Beyond Technology
+
+When I'm not exploring technology, you'll probably find me somewhere around:
+
+⛳ Golf  
+🎮 Computer Games  
+🪴 Bonsai  
+🛩️ Traveling  
+🏀 Basketball  
+♟️ Chess  
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in exchanging ideas around **Quality Engineering, Test Automation, AI and emerging technologies**.
+
+If you're experimenting with intelligent testing, Playwright, Agentic AI, MCP or simply have an interesting engineering problem to solve:
+
+**Let's build something useful.**
+
+---
+
+Thanks for stopping by! 🖖😎👍
